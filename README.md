@@ -19,4 +19,4 @@
       /_==__==========__==_ooo__ooo=_/'   /___________,"
       `-----------------------------'
 
-i am a CS student at @DJSCE and i like building thing/models 
+i am a CS student at @DJSCE and i love building things 
