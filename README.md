@@ -18,5 +18,4 @@
        / ==ooooooooooooooo==.o.  ooo= //   ,`--{)B     ,"
       /_==__==========__==_ooo__ooo=_/'   /___________,"
       `-----------------------------'
-
-i am a CS student at @DJSCE and i love building things 
+CS student at @DJSCE, love building
