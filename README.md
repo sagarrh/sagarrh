@@ -20,4 +20,4 @@
       `-----------------------------'
 CS student at @DJSCE, love building
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sagarrh)
+
